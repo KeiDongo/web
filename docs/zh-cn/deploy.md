@@ -22,7 +22,7 @@ API 配置位于配置文件的“enginetribe”部分。
   您可以生成一个随机字符串作为 API 密钥。
 - `verify_user_agent`: 是否验证客户端的 User-Agent。  
   如果设置为 `true` ，客户端必须是有效的 SMM:WE 游戏，否则请求将被拒绝。  
-  您可以[在此](https://github.com/EngineTribe/EngineTribe/blob/main/depends.py#L10) 查看有效 User-Agent 列表。
+  您可以[在此](https://github.com/KeiDongo/EngineTribe/blob/main/depends.py#L10) 查看有效 User-Agent 列表。
 - `cors_allowed_origins`：API 的 `Access-Control-Allow-Origin` 响应头，可以是 `*` 或域名。
 - `rows_perpage`：全球关卡中每页的级别数。
 - `upload_limit`：用户可以上传的最大关卡数。

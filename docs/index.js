@@ -5,13 +5,13 @@ window.$docsify = {
         "/es-es/": "/es-es/",
         "/zh-cn/": "/zh-cn/",
     },
-    repo: "https://github.com/EngineTribe/EngineTribe",
+    repo: "https://github.com/KeiDongo/EngineTribe",
     loadSidebar: true,
     subMaxLevel: 3,
     loadNavbar: true,
     plugins: [
         function persistTitle(hook, vm) {
-            // https://github.com/jhildenbiddle/docsify-themeable/blob/master/docs/index.html#L69
+            //https://github.com/jhildenbiddle/docsify-themeable/blob/master/docs/index.html#L69
             const titleElm = document.querySelector('title');
             const rootTitle = titleElm && titleElm.textContent;
             const pageTitleSuffix = window.$docsify.name ? ' - ' + window.$docsify.name : '';

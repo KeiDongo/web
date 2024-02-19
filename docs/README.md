@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EngineTribe/Server/main/assets/enginetribe.png" width="180px">
+  <img src="https://raw.githubusercontent.com/KeiDongo/EngineTribe/main/assets/enginetribe.png" width="180px">
   <br>
 </div>
 
 📡 The **Engine Tribe** project, formerly known as SMMWE Cloud, aims to create an open source, flexible, international and extensible SMM:WE online server.
 
 ---
+
+### ⚠️ BETA
 
 ### ⚠️ Maintenance Mode
 
