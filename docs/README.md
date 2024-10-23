@@ -7,7 +7,7 @@
 
 ---
 
-### ⚠️ BETA
+### ⚠️ Hablame lesbiana 👏
 
 ### ⚠️ Maintenance Mode
 
